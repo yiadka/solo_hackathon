@@ -1,0 +1,12 @@
+{
+  "name": "solo_hackathon",
+  "version": "1.0.0",
+  "description": "1人で時間制限を設けたハッカソン。何を作ろうかな〜 スタートは10月27日22時14分。 ## ルール 1. 使用できる時間は24時間。トータル24時間として、何日かけてやっても良い。 2. 使用できる言語はなんでも良いとする 3. サーバにデプロイ出来たら最高 4. ローカルで動くやつでもいい。要するになんでもいい。 ## 何を作る？ 今回はGoogle Chrome拡張機能を作りやす。初回はこれでいく。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

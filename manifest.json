@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Click Dark Mode",
+    "description": "Click to toggle dark mode",
+    "version": "1.0.0",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}
