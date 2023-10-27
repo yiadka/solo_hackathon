@@ -15,3 +15,6 @@
 
 ## 進捗
 2023/10/27 0:55:04 残り23:04:56
+
+## 参考文献
+https://tech.revcomm.co.jp/build-chrome-extension-with-typescript
